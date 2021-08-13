@@ -108,16 +108,17 @@ body{
     font-size: 13px;
 }
 
-#ainterectarea{
-    width: 136px;
-    height: 20px;
+#dinterest{
+    width: 90px;
+    height: 12px;
     font-size: 7px;
     padding: 1px;
 }
 
-#dinterest{
-    width: 136px;
-    height: 20px;
+#ainterectarea{
+    width: 120px;
+    height: 12px;
     font-size: 7px;
     padding: 1px;
 }
+
